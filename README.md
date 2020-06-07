@@ -30,7 +30,7 @@ O projeto **Ecoleta** tem como finalidade a conexão entre locais de coleta de r
   - **[Express][express]**
   - **[KnexJS][knex]**
   - **[SQLite][sqlite3]**
-  - **[ts-node][tsnode
+  - **[ts-node][tsnode]**
   #### **Server** ([NodeJS][node] + [TypeScript][typescript])
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
