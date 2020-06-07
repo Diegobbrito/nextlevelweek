@@ -1,0 +1,34 @@
+comando utilizados no terminal
+Iniciar repositorio
+npm init -y
+
+Instalar o express
+npm install express
+
+Instalar o types para utilização do typescript
+npm install @types/express -D
+
+Possibilita utilizar typescript pra rodar no node
+npm install ts-node -D
+
+Instalar o typescript
+npm install typescript -D
+
+Cria arquivo para inicializar o typescript
+npx tsc --init
+
+Inicia o servidor
+npx ts-node src/server.ts
+
+Servidor atualiza automaticamente com atualização
+npm install ts-node-dev -D
+
+npm install knex
+
+npm install sqlite3
+
+Tecnologias utilizadas
+knex
+sqlite3
+node
+typescript
